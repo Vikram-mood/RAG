@@ -67,11 +67,10 @@ Launch Jupyter to explore the notebook designed for reading text, images, and ta
 jupyter notebook multi_modal_rag.ipynb
 ```
 
-<img width="921" height="436" alt="Screenshot 2026-03-27 at 2 06 29 PM" src="https://github.com/user-attachments/assets/7995bcf7-4ce3-4e2c-a053-226965eb00f5" />
+### 📸 Demo
 
-imae_src: https://youtu.be/dHgvDTXVvPA?si=mkWSENTAHIdgtEUd
+<img width="921" height="436" alt="Screenshot" src="https://github.com/user-attachments/assets/7995bcf7-4ce3-4e2c-a053-226965eb00f5" />
 
-
-
+**Video Link:** [https://youtu.be/dHgvDTXVvPA?si=mkWSENTAHIdgtEUd](https://youtu.be/dHgvDTXVvPA?si=mkWSENTAHIdgtEUd)
 ---
 *Developed by [Vikram](https://github.com/Vikram-mood/)*
